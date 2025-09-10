@@ -1,0 +1,79 @@
+{
+  "name": "Lily Smith",
+  "photo_url": "https://university.edu/photos/lily_smith_profile.jpg",
+  "social_media": {
+    "Twitter": "https://twitter.com/lily_smith_ai",
+    "LinkedIn": "https://www.linkedin.com/in/lilysmith-research",
+    "Google Scholar": "https://scholar.google.com/citations?user=lilysmith"
+  },
+  "media_mentions": [
+    "NPR - 'How Open Data Is Changing Local Power Dynamics' (Mar 2025)",
+    "WIRED - 'Data Justice in Practice: An Interview with Lily Smith' (Dec 2024)",
+    "Forbes Impact - 'Lily Smith Brings Equity Lens to Data Design' (Oct 2024)"
+  ],
+  "research_areas": [
+    "Civic Technology",
+    "Data Ethics",
+    "Computational Social Science",
+    "AI Governance",
+    "Participatory Urbanism"
+  ],
+  "awards": [
+    {
+      "year": "2025",
+      "title": "Top Innovator in Ethical Tech"
+    },
+    {
+      "year": "2024",
+      "title": "Civic Data Impact Prize"
+    }
+  ],
+  "patents": [
+    {
+      "title": "Transparent Scoring Framework for AI-Driven Municipal Services",
+      "number": "US2025/019438A1",
+      "inventors": ["Lily Smith", "Nora Kim"],
+      "filed": "2025-02-08",
+      "status": "Pending"
+    }
+  ],
+  "positions": [
+    "Assistant Professor of Sociology and Data Science, Urban State University",
+    "Founder & Director, Civic Tech Lab"
+  ],
+  "affiliations": [
+    "Urban Data Collaborative",
+    "Open Government Partnership Academic Network",
+    "American Sociological Association"
+  ],
+  "education": [
+    "Ph.D. in Computational Sociology - University of Chicago",
+    "M.S. in Data Science - Columbia University",
+    "B.A. in Political Science - University of Michigan"
+  ],
+  "memberships": [
+    "ACM Fairness, Accountability, and Transparency",
+    "IEEE Society on Social Implications of Technology",
+    "Code for America"
+  ],
+  "mentors": [
+    "Dr. Carla Jennings - Civic Informatics Research Group",
+    "Prof. Andrew Tan - Data for Public Good Lab"
+  ],
+  "colleagues": [
+    "Nora Kim",
+    "Javier Alvarez",
+    "Emma Rios"
+  ],
+  "keywords": [
+    "data justice",
+    "civic tech",
+    "algorithmic transparency",
+    "participatory design",
+    "urban equity"
+  ],
+  "partners": {
+    "Academic Partners": 3,
+    "Industry Partners": 2
+  }
+}

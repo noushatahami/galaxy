@@ -1,0 +1,42 @@
+{
+  "name": "Lily Smith",
+  "total_grants_awarded": {
+    "amount": "$310,000",
+    "change": "+18%",
+    "note": "Funding increase driven by a successful NSF civic technology proposal and a renewed community impact grant."
+  },
+  "available_budget": {
+    "amount": "$64,500",
+    "change": "-12%",
+    "note": "Slight decrease due to recent equipment purchases and expanded community workshops."
+  },
+  "partners": {
+    "Academic Partners": 3,
+    "Industry Partners": 2
+  },
+  "last_awarded_grant": {
+    "title": "Ethical AI for Local Governance",
+    "grant_id": "NSF-EAIG-2025-0421",
+    "agency": "National Science Foundation",
+    "agency_short": "NSF",
+    "type": "Research",
+    "duration": "24 months",
+    "extension": "6 months available upon request",
+    "amount_awarded": "$150,000",
+    "amount_received": "$100,000",
+    "amount_spent": "$72,000",
+    "tags": ["AI ethics", "local government", "civic tech"]
+  },
+  "breakdown": {
+    "grant_id": "NSF-EAIG-2025-0421"
+  },
+  "reports": {
+    "grant_id": "NSF-EAIG-2025-0421",
+    "next_due": "2025-10-01",
+    "last_submitted": "2025-04-01"
+  },
+  "keywords_section": {
+    "grant_id": "NSF-EAIG-2025-0421",
+    "keywords": ["algorithmic transparency", "participatory design", "data equity", "public trust"]
+  }
+}

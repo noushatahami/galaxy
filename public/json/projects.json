@@ -1,0 +1,124 @@
+{
+  "name": "Lily Smith",
+  "project_snapshot": {
+    "status": "Behind Schedule",
+    "days_remaining": 23,
+    "title": "Quantum Computing: Practical Applications",
+    "description": "Exploring quantum technology's potential to revolutionize various sectors, from cryptography to drug discovery, …",
+    "donut_percentage": 57,
+    "tags": [
+      {
+        "label": "On Budget"
+      },
+      {
+        "label": "Hiring"
+      },
+      {
+        "label": "MSc"
+      },
+      {
+        "label": "PhD"
+      },
+      {
+        "label": "PDF"
+      },
+      {
+        "label": "Volunteer"
+      },
+      {
+        "label": "Staff"
+      }
+    ]
+  },
+  "project_status": {
+    "counts": {
+      "active": 5,
+      "on_hold": 1,
+      "stopped": 2
+    },
+    "projects": [
+      {
+        "label": "Quantum Computing: Practical Applications",
+        "status": "Active",
+        "selected": true
+      },
+      {
+        "label": "Autonomous Vehicles: Safety Measures",
+        "status": "Active"
+      },
+      {
+        "label": "Next-Gen Solar Power Solutions",
+        "status": "Active"
+      },
+      {
+        "label": "Sustainable Urban Planning Innovations",
+        "status": "Active"
+      },
+      {
+        "label": "Deep Learning for Linguistics",
+        "status": "Active"
+      },
+      {
+        "label": "AI in Healthcare Management",
+        "status": "On Hold"
+      },
+      {
+        "label": "Autonomous Vehicles: Drawbacks",
+        "status": "Stopped"
+      },
+      {
+        "label": "Deep Learning for Linguistics",
+        "status": "Stopped"
+      }
+    ]
+  },
+  "impact_points": {
+    "total": "3,520",
+    "change": "+380",
+    "note": "Awarded for cross-department collaboration, student mentorship, and open-source contributions."
+  },
+  "total_budget": {
+    "amount": "$127,000",
+    "change": "+$12,000",
+    "note": "Boosted by a supplemental grant from the Civic Innovation Fund."
+  },
+  "next_deadline": {
+    "label": "Digital Equity Toolkit Launch",
+    "date": "2025-08-25"
+  },
+  "messages": [
+    {
+      "name": "Avery Chen",
+      "time_ago": "2h ago",
+      "subject": "Reviewed final outreach deck - ready to go!"
+    },
+    {
+      "name": "Javier Alvarez",
+      "time_ago": "1d ago",
+      "subject": "Added budget notes for next advisory call"
+    }
+  ],
+  "latest_activity": [
+    {
+      "name": "Emma Rios",
+      "action": "uploaded community survey results",
+      "time_ago": "3h ago",
+      "avatar": "emma_rios.png",
+      "approved": true
+    },
+    {
+      "name": "Lily Smith",
+      "action": "updated project milestone timeline",
+      "time_ago": "6h ago",
+      "avatar": "lily_smith.png",
+      "approved": true
+    },
+    {
+      "name": "Nora Kim",
+      "action": "requested pause on TrustScore AI pilot",
+      "time_ago": "1d ago",
+      "avatar": "nora_kim.png",
+      "approved": false
+    }
+  ]
+}

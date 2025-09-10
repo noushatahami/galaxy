@@ -13,6 +13,13 @@ export default function Home() {
           priority
         />
         <h1 className="text-3xl font-bold">🚀 Hello Nousha! Welcome to your first React app.</h1>
+        <Image 
+          src="/images/profile.png" 
+          alt="Profile" 
+          width={64} 
+          height={64} 
+        />
+
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a

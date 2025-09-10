@@ -1,0 +1,49 @@
+{
+  "name": "Lily Smith",
+  "publications": [
+    {
+      "title": "Designing for Data Justice: Frameworks for Equitable Urban Tech",
+      "authors": "Lily Smith, Nora Kim",
+      "journal": "Journal of Urban Technology",
+      "year": 2025,
+      "tags": ["data justice", "urban design", "equity"],
+      "doi": "10.1080/10630732.2025.1000234",
+      "pdf_link": "https://journals.unitech.org/papers/data-justice-frameworks.pdf",
+      "status": "Published",
+      "citations": 47
+    },
+    {
+      "title": "From Transparency to Trust: Civic Perceptions of Algorithmic Decision-Making",
+      "authors": "Lily Smith, Andrew Tan",
+      "journal": "AI & Society",
+      "year": 2024,
+      "tags": ["AI ethics", "governance", "public trust"],
+      "doi": "10.1007/s00146-024-01342-9",
+      "pdf_link": "https://aisociety.org/papers/algorithmic_trust_smith.pdf",
+      "status": "Published",
+      "citations": 65
+    },
+    {
+      "title": "Civic Data Commons: A Participatory Model for Open Government Platforms",
+      "authors": "Lily Smith, Javier Alvarez, Emma Rios",
+      "journal": "Information Polity",
+      "year": 2023,
+      "tags": ["open data", "civic tech", "participation"],
+      "doi": "10.3233/IP-230015",
+      "pdf_link": "https://infopolity.org/papers/civic_data_commons_smith.pdf",
+      "status": "Published",
+      "citations": 38
+    },
+    {
+      "title": "Building Ethical AI Tools for Municipal Services: Lessons from the Field",
+      "authors": "Lily Smith",
+      "journal": "Conference on Fairness, Accountability, and Transparency (FAccT)",
+      "year": 2023,
+      "tags": ["municipal AI", "fairness", "policy"],
+      "doi": "10.1145/3593013.3594091",
+      "pdf_link": "https://dl.acm.org/doi/pdf/10.1145/3593013.3594091",
+      "status": "Published",
+      "citations": 54
+    }
+  ]
+}

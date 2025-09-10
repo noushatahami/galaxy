@@ -1,0 +1,74 @@
+{
+  "name": "Lily Smith",
+  "compliance": {
+    "summary": {
+      "compliant": 8,
+      "pending": 1,
+      "non_compliant": 1
+    },
+    "quick_actions": [
+      "Upload renewed IRB approval letter",
+      "Complete cybersecurity refresher module",
+      "Review and sign the updated conflict of interest policy"
+    ],
+    "key_contacts": [
+      {
+        "name": "Mark Reynolds",
+        "role": "Institutional Compliance Officer",
+        "image": "mark_reynolds.png"
+      },
+      {
+        "name": "Sarah Cho",
+        "role": "Data Protection Liaison",
+        "image": "sarah_cho.png"
+      }
+    ],
+    "checkpoints": [
+      {
+        "title": "IRB Protocol Renewal",
+        "status": "Pending",
+        "last_reviewed": "2025-06-01"
+      },
+      {
+        "title": "Annual COI Disclosure",
+        "status": "Compliant",
+        "last_reviewed": "2025-03-15"
+      },
+      {
+        "title": "Cybersecurity Training",
+        "status": "Non-Compliant",
+        "last_reviewed": "2024-11-20"
+      },
+      {
+        "title": "Research Ethics Training",
+        "status": "Compliant",
+        "last_reviewed": "2025-02-05"
+      }
+    ],
+    "audits": [
+      {
+        "name": "Quarterly Research Compliance Audit",
+        "date": "2025-04-10",
+        "score": "92%",
+        "tags": ["research", "ethics", "documentation"]
+      },
+      {
+        "name": "Data Privacy & Security Audit",
+        "date": "2025-01-15",
+        "score": "88%",
+        "tags": ["data", "security", "privacy"]
+      },
+      {
+        "name": "Conflict of Interest Spot Check",
+        "date": "2024-12-10",
+        "score": "100%",
+        "tags": ["COI"]
+      }
+    ],
+    "notes": [
+      "Lily's team has consistently scored well on documentation and ethical compliance.",
+      "Cybersecurity module completion is overdue as of 2025-06-30 - reminder issued.",
+      "New data retention policy training will be required by September 2025."
+    ]
+  }
+}
