@@ -44,10 +44,9 @@ export default function SignupPage() {
     e.preventDefault();
     if (!canSubmit) return;
     setSubmitting(true);
-    // DESIGN-FIRST: fake success; later POST to /api/signup
     setTimeout(() => {
       setSubmitting(false);
-      router.push("/"); // or /profile
+      router.push("/");
     }, 800);
   }
 
@@ -57,7 +56,7 @@ export default function SignupPage() {
         {/* Header */}
         <div className="text-center pt-10">
           <Image
-            src="/images/logo.png" /* put your logo here */
+            src="/images/logo.png" 
             alt="Logo"
             width={88}
             height={88}
