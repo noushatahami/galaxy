@@ -27,8 +27,6 @@ export default function Home() {
           Log in
         </Link>
 
-
-
       </div>
     </main>
   );
